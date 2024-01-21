@@ -4,13 +4,13 @@ Welcome to **ExtraYas**, an e-commerce web application built with Python Django,
 
 ## Curent Features
 - **Product Showcase:** Display a wide variety of shoes with detailed descriptions, images, and pricing.
-- **User Authentication:** Secure user registration and login system.
 - **Shopping Cart:** Easy-to-use cart system for a seamless shopping experience.
 - **Admin Dashboard:** Comprehensive control over products, orders, and user accounts.
 - **Responsive Design:** Fully responsive interface for a great experience across all devices.
 - **Search and Filter:** Advanced search and filter options to help users find products easily.
 
 ## Upcoming Features
+- **User Authentication:** Secure user registration and login system.
 - **Payment Gateway Integration:** Secure and hassle-free payment solutions.
 
 
