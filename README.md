@@ -33,6 +33,7 @@ python manage.py migrate
 # Start the server
 python manage.py runserver
 
+```
 Usage
 After starting the server, navigate to http://localhost:8000 in your browser to view the application.
 
